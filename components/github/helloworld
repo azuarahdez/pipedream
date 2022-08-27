@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+    <meta charset="utf-8">
+
+    <title>hello, world </title>
+  </head>
+  <body> Sandra Azuara, Welcome to my page!
+
+    <img src="images/firefox-icon.png" alt="Mi imagen de prueba">
+  </body>
+</html>
